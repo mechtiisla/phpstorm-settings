@@ -5,7 +5,6 @@
     <variable name="var3" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="var4" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="cursor" expression="" defaultValue="" alwaysStopAt="true" />
-    <context />
   </template>
   <template name="bs3-well" value="&lt;div class=&quot;well&quot;&gt;$var1$&lt;/div&gt;$END$" description="Well" toReformat="true" toShortenFQNames="false">
     <variable name="var1" expression="" defaultValue="" alwaysStopAt="true" />

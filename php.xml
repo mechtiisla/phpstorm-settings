@@ -13,7 +13,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="1b0893c5-a727-4dc7-9b7a-1a06a96cc28b" name="PHP 7.1" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" debugger_extension="/usr/local/Cellar/php/7.3.4_1/pecl/20170718/xdebug.so" />
+      <interpreter id="1b0893c5-a727-4dc7-9b7a-1a06a96cc28b" name="PHP 7.1" home="/usr/local/bin/php" debugger_id="php.debugger.XDebug" />
       <interpreter id="2cab2c9d-3835-489d-9c27-6a28e239ff8d" name="Remote PHP 7" home="vagrant://DATA" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="$USER_HOME$/Homestead" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" />
       </interpreter>
@@ -97,11 +97,11 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.18/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.18/bin/php" path_separator=":" version="7.2.18">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/php-memory-limits.ini, /usr/local/etc/php/7.2/conf.d/xdebug.ini</additional_php_ini>
-          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php/7.3.4_1/bin/php-cgi" php_cli="/usr/local/Cellar/php/7.3.4_1/bin/php" path_separator=":" version="7.3.4">
+          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/php-memory-limits.ini, /usr/local/etc/php/7.3/conf.d/xdebug.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.18/share/php@7.2/pear" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php/7.3.4_1/share/php/pear" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.7.2">

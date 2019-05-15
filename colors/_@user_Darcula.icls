@@ -1,22 +1,11 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2018-02-08T09:29:31</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-05-15T16:19:21</property>
+    <property name="modified">2019-05-15T16:24:20</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.6" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
-  </font>
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />

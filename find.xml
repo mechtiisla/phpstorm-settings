@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../web/app/themes/towa-theme/webpack.config.js [towa-jenamice-website]'" />
+    <option name="defaultScopeName" value="File '.../web/app/themes/towa-theme/webpack.config.js [towa-jenamice-website]'" />
+    <option name="SEARCH_SCOPE" value="File '.../web/app/themes/towa-theme/webpack.config.js [towa-jenamice-website]'" />
   </component>
 </application>

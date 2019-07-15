@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="bregenz" type="HTML" />
       <mapping pattern="Yoast SEO Premium" type="Markdown" />
       <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="artisan" type="PHP" />

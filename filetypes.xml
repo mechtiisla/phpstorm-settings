@@ -1,0 +1,29 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="bregenz" type="HTML" />
+      <mapping pattern="Yoast SEO Premium" type="Markdown" />
+      <mapping pattern=".php_cs" type="PHP" />
+      <mapping pattern="artisan" type="PHP" />
+      <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern="GenreForm" type="PLAIN_TEXT" />
+      <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".evn.example" type="PLAIN_TEXT" />
+      <mapping ext="staging" type="PLAIN_TEXT" />
+      <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern=".towa-config" type="YAML" />
+      <mapping ext="fnc" type="DBN-PSQL" />
+      <mapping ext="pkb" type="DBN-PSQL" />
+      <mapping ext="pkg" type="DBN-PSQL" />
+      <mapping ext="pks" type="DBN-PSQL" />
+      <mapping ext="prc" type="DBN-PSQL" />
+      <mapping ext="tpb" type="DBN-PSQL" />
+      <mapping ext="tpe" type="DBN-PSQL" />
+      <mapping ext="tps" type="DBN-PSQL" />
+      <mapping ext="trg" type="DBN-PSQL" />
+      <mapping ext="vw" type="DBN-SQL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+    </extensionMap>
+  </component>
+</application>

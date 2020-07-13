@@ -9,9 +9,9 @@
       <mapping pattern="GenreForm" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".evn.example" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="staging" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping pattern=".towa-config" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
